@@ -31,7 +31,7 @@ Built with **Power BI**, using data cleaning, DAX measures, and custom visuals.
 
 ## ▶️ Preview
 
-[![Watch the demo](Assets/Business%20Insights%20Project%20Dashboard.png)](Assets/Business%20Insights%20Project%20Video.mp4)
+[![Watch the demo](Assets/Business%20Insights%20Project%20Dashboard.png)](Assets/Business%20Insights%20Project%20Video%20(1).mp4)
 
 > Click on the image to play the walkthrough video.
 
