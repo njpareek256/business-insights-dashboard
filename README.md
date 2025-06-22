@@ -23,15 +23,15 @@ Built with **Power BI**, using data cleaning, DAX measures, and custom visuals.
 | File | Description |
 |------|-------------|
 | `SalesDashboard.pbix` | Main Power BI dashboard file |
-| `assets/dashboard.png` | Dashboard image preview |
-| `assets/demo-video.mp4` | Optional walkthrough of the dashboard |
-| `data/sample-data.csv` | Mock data for demonstration |
+| `Assets/Business Insights Project Dashboard.png` | Dashboard image preview |
+| `Assets/Business Insights Project Video.mp4` | Optional walkthrough of the dashboard |
+
 
 ---
 
 ## ▶️ Preview
 
-[![Watch the demo](assets/dashboard.png)](assets/demo-video.mp4)
+[![Watch the demo](Assets/Business Insights Project Dashboard.png)](Assets/Business Insights Project Video.mp4)
 
 > Click on the image to play the walkthrough video.
 
@@ -51,8 +51,8 @@ Built with **Power BI**, using data cleaning, DAX measures, and custom visuals.
 
 **Namrata Joshi**  
 _Data Analyst_  
-📧 namrata@example.com  
-🌐 [LinkedIn](https://linkedin.com/in/namrata-joshi)
+📧 njpareek256@gmail.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/namrata-pareek-3415b521b/)
 
 ---
 
