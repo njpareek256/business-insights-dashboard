@@ -1,6 +1,6 @@
 # 📊 Sales Performance Dashboard
 
-![Dashboard Screenshot](assets/dashboard.png)
+![Dashboard Screenshot](Assets/Business%20Insights%20Project%20Dashboard.png)
 
 > A Power BI project visualizing sales performance vs. budget with conditional formatting, YoY growth, and KPIs across products, customers, and sales representatives.
 
@@ -31,7 +31,7 @@ Built with **Power BI**, using data cleaning, DAX measures, and custom visuals.
 
 ## ▶️ Preview
 
-[![Watch the demo](Assets/Business Insights Project Dashboard.png)](Assets/Business Insights Project Video.mp4)
+[![Watch the demo](Assets/Business%20Insights%20Project%20Dashboard.png)](Assets/Business%20Insights%20Project%20Video.mp4)
 
 > Click on the image to play the walkthrough video.
 
